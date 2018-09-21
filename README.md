@@ -1,4 +1,5 @@
 ![Legato](https://legato.io/resources/img/legato_logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBeckNT%2Flegato-af.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FBeckNT%2Flegato-af?ref=badge_shield)
 
 ---
 
@@ -171,3 +172,7 @@ To uninstall Legato from your development PC:
 
 * * *
 _Copyright (C) Sierra Wireless Inc. _
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBeckNT%2Flegato-af.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FBeckNT%2Flegato-af?ref=badge_large)
